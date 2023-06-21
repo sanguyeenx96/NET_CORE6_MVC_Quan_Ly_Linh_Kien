@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\smtng\Desktop\publish_spare</_PublishTargetUrl>
+    <History>True|2023-06-21T06:11:04.8894296Z;True|2023-06-21T13:10:03.4402743+07:00;True|2023-06-19T13:42:45.7091895+07:00;True|2023-06-16T16:14:58.0018631+07:00;True|2023-06-16T16:14:11.6524051+07:00;True|2023-06-16T15:46:53.0725922+07:00;True|2023-06-16T09:40:02.7874876+07:00;True|2023-06-16T09:19:21.3217927+07:00;True|2023-06-16T08:50:29.5886269+07:00;True|2023-06-09T11:42:50.8421780+07:00;True|2023-06-09T11:39:48.5823590+07:00;True|2023-06-08T11:28:46.6521451+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
